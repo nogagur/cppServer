@@ -1,6 +1,6 @@
-# YouTube Project - Fourth Part
+# YouTube Project - Video Recommendations Microservice
 
-For complete instructions on setting up and running the project, please visit the wiki directory.
+For complete instructions on setting up and running the project, please visit the docs at the project's meta repository [YouTube Clone Meta Repository](https://github.com/nogagur/youtube-clone).
 
 ## Video Recommendation System
 
@@ -27,3 +27,4 @@ The recommendation algorithm suggests videos to a user by leveraging the viewing
     - The recommended video IDs are returned in JSON format, helping users discover new content aligned with their interests.
 
 This collaborative filtering approach delivers personalized video suggestions, enhancing the user experience by promoting content that users are likely to enjoy.
+
